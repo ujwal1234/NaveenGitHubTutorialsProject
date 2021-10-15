@@ -1,3 +1,5 @@
+package com.qa.opencart.pages;
+
 public class getNotify {
 
 	public static void main(String[] args) {
