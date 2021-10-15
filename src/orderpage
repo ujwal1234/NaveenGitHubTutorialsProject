@@ -1,0 +1,15 @@
+public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("Get the main method of the order page wrtten by shalani");
+		getorder();
+
+	}
+
+	
+	public static void getorder(){
+		
+		System.out.println("This is the method of the get order page");
+		
+		
+	}
